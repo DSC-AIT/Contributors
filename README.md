@@ -12,4 +12,4 @@ A markdown file that lists all members of this organization. Adding your name to
 - On GitHub, publish your Pull Request
 - Wait for your PR to get merged and for an invite to be the member of the organization :)
 
-Phew! That's a lot to keep up with. So [here](https://youtu.be/c6b6B9oN4Vg) is a video to walk you through those same steps
+#### Phew! That's a lot to keep up with. So [here](https://youtu.be/c6b6B9oN4Vg) is a video to walk you through those same steps
