@@ -13,5 +13,3 @@
 - [@ridhisikaria](https://github.com/ridhisikaria)
 
 - [@Pranav-Priyank](https://github.com/Pranav-Priyank)
-
-- [@Electromorphous](https://github.com/Electromorphous)
