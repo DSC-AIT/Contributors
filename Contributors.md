@@ -18,4 +18,4 @@
 
 - [@rajasingh10](https://github.com/rajasingh10)
 
-- [@suwebreza](https://github.com/swebreza)
+- [@swebreza](https://github.com/swebreza)
